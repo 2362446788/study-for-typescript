@@ -1,0 +1,23 @@
+{
+  "name": "study-for-typescript",
+  "version": "1.0.0",
+  "description": "学习typescript手册",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2362446788/study-for-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2362446788/study-for-typescript/issues"
+  },
+  "homepage": "https://github.com/2362446788/study-for-typescript#readme",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
